@@ -1,24 +1,7 @@
-:root{
-  background-color: antiquewhite;
-}
 h1 {
-  font-size: 16px;
   color: red;
- }
+}
 
- a {
-  font-size: 26px;
- }
-
- a2 {
-  font: 16px;
-  text-align: center;
- }
-
- page {
-  text-align: center;
- }
-
- h2 {
-  color: red;
- }
+:root {
+  background-color: blueviolet;
+}
