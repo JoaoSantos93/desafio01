@@ -1,9 +1,24 @@
- h1 {
+:root{
+  background-color: antiquewhite;
+}
+h1 {
   font-size: 16px;
   color: red;
  }
 
- img {
-  margin: 100%
-;
+ a {
+  font-size: 26px;
+ }
+
+ a2 {
+  font: 16px;
+  text-align: center;
+ }
+
+ page {
+  text-align: center;
+ }
+
+ h2 {
+  color: red;
  }
